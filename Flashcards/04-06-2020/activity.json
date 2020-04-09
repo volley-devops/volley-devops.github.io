@@ -1,5 +1,6 @@
 {"questionlist":[
 {"cardfront":"run",
+<<<<<<< HEAD
 "cardback":"CANGURO"
 },
 {"cardfront":"under",
@@ -7,6 +8,21 @@
 },
 {"cardfront":"too",
 "cardback":"CANGURO"
+=======
+"cardback":"GATO"
+},
+{"cardfront":"under",
+"cardback":"PERRO"
+},
+{"cardfront":"too",
+"cardback":"CABALLO"
+},
+{"cardfront":"nineteen",
+"cardback":"CONEJO"
+},
+{"cardfront":"away",
+"cardback":"TIGRE"
+>>>>>>> 4f2a620422717712f8d486e1f602e0f926868eb0
 },
 {"cardfront":"nineteen",
 "cardback":"CANGURO"
